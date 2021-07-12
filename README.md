@@ -24,6 +24,14 @@
  * [@JDHelloWorld](https://github.com/JDHelloWorld)
  
  * [@StimeKe](https://github.com/StimeKe)
+#### 东哥脚本作者
+ * [@JDHelloWorld](https://github.com/JDHelloWorld/jd_scripts)
+ * [@]()
+ * [@]()
+ * [@]()
+ * [@]()
+ * [@]()
+ * [@]()
 
 #### BoxJS作者： 
 
