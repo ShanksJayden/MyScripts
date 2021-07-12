@@ -27,7 +27,8 @@
 #### 东哥脚本作者
  * [@JDHelloWorld](https://github.com/JDHelloWorld/jd_scripts)
  * [@]()
- * [@]()
+ * [@panghu999](https://github.com/panghu999/panghu)
+ * [@panghu999 to lxk](https://github.com/panghu999/jd_scripts)
  * [@]()
  * [@]()
  * [@]()
